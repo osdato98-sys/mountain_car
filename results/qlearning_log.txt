@@ -1,0 +1,92 @@
+Episode 500/500 | Avg Reward: -200.00 | Epsilon: 0.7788 | States visited: 115
+[eval] ep=500 mean=-200.0±0.0 success=0% t=2s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -200.00 | Epsilon: 0.6065 | States visited: 196
+[eval] ep=1000 mean=-200.0±0.0 success=0% t=5s
+Episode 500/500 | Avg Reward: -200.00 | Epsilon: 0.4723 | States visited: 248
+[eval] ep=1500 mean=-200.0±0.0 success=0% t=7s
+Episode 500/500 | Avg Reward: -199.78 | Epsilon: 0.3678 | States visited: 269
+[eval] ep=2000 mean=-200.0±0.0 success=0% t=10s
+Episode 500/500 | Avg Reward: -199.37 | Epsilon: 0.2864 | States visited: 278
+[eval] ep=2500 mean=-200.0±0.0 success=0% t=12s
+Episode 500/500 | Avg Reward: -192.52 | Epsilon: 0.2230 | States visited: 285
+[eval] ep=3000 mean=-190.5±14.6 success=30% t=14s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -191.65 | Epsilon: 0.1737 | States visited: 286
+[eval] ep=3500 mean=-188.3±12.7 success=82% t=16s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -186.05 | Epsilon: 0.1353 | States visited: 293
+[eval] ep=4000 mean=-135.0±18.0 success=100% t=18s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -182.15 | Epsilon: 0.1053 | States visited: 293
+[eval] ep=4500 mean=-180.8±17.0 success=86% t=20s
+Episode 500/500 | Avg Reward: -175.64 | Epsilon: 0.0820 | States visited: 293
+[eval] ep=5000 mean=-161.1±34.2 success=66% t=22s
+Episode 500/500 | Avg Reward: -177.59 | Epsilon: 0.0639 | States visited: 293
+[eval] ep=5500 mean=-187.9±15.7 success=44% t=24s
+Episode 500/500 | Avg Reward: -171.33 | Epsilon: 0.0497 | States visited: 293
+[eval] ep=6000 mean=-175.4±28.0 success=44% t=26s
+Episode 500/500 | Avg Reward: -161.58 | Epsilon: 0.0387 | States visited: 293
+[eval] ep=6500 mean=-176.6±21.1 success=84% t=28s
+Episode 500/500 | Avg Reward: -166.11 | Epsilon: 0.0302 | States visited: 293
+[eval] ep=7000 mean=-140.4±20.5 success=100% t=30s
+Episode 500/500 | Avg Reward: -166.96 | Epsilon: 0.0235 | States visited: 294
+[eval] ep=7500 mean=-171.1±10.6 success=100% t=32s
+Episode 500/500 | Avg Reward: -168.57 | Epsilon: 0.0183 | States visited: 294
+[eval] ep=8000 mean=-173.9±13.0 success=100% t=34s
+Episode 500/500 | Avg Reward: -171.16 | Epsilon: 0.0142 | States visited: 294
+[eval] ep=8500 mean=-173.4±15.5 success=100% t=35s
+Episode 500/500 | Avg Reward: -166.87 | Epsilon: 0.0111 | States visited: 294
+[eval] ep=9000 mean=-160.4±14.2 success=98% t=37s
+Episode 500/500 | Avg Reward: -143.82 | Epsilon: 0.0100 | States visited: 295
+[eval] ep=9500 mean=-128.8±17.9 success=100% t=39s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -135.86 | Epsilon: 0.0100 | States visited: 295
+[eval] ep=10000 mean=-125.1±14.5 success=100% t=40s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -131.87 | Epsilon: 0.0100 | States visited: 295
+[eval] ep=10500 mean=-123.7±13.9 success=100% t=42s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -132.38 | Epsilon: 0.0100 | States visited: 295
+[eval] ep=11000 mean=-151.4±30.0 success=74% t=43s
+Episode 500/500 | Avg Reward: -132.19 | Epsilon: 0.0100 | States visited: 295
+[eval] ep=11500 mean=-123.9±13.8 success=100% t=45s
+Episode 500/500 | Avg Reward: -128.02 | Epsilon: 0.0100 | States visited: 295
+[eval] ep=12000 mean=-123.2±14.4 success=100% t=46s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -129.55 | Epsilon: 0.0100 | States visited: 295
+[eval] ep=12500 mean=-122.9±14.5 success=100% t=47s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Episode 500/500 | Avg Reward: -154.50 | Epsilon: 0.0100 | States visited: 295
+[eval] ep=13000 mean=-197.6±2.4 success=62% t=49s
+Episode 500/500 | Avg Reward: -177.09 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=13500 mean=-169.3±24.7 success=100% t=51s
+Episode 500/500 | Avg Reward: -161.81 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=14000 mean=-164.4±26.1 success=80% t=53s
+Episode 500/500 | Avg Reward: -161.32 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=14500 mean=-162.8±16.7 success=96% t=55s
+Episode 500/500 | Avg Reward: -154.47 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=15000 mean=-129.1±21.6 success=100% t=56s
+Episode 500/500 | Avg Reward: -135.02 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=15500 mean=-124.2±15.5 success=100% t=58s
+Episode 500/500 | Avg Reward: -131.82 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=16000 mean=-124.8±15.3 success=100% t=59s
+Episode 500/500 | Avg Reward: -131.56 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=16500 mean=-123.8±15.2 success=100% t=61s
+Episode 500/500 | Avg Reward: -132.13 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=17000 mean=-125.2±15.8 success=100% t=62s
+Episode 500/500 | Avg Reward: -129.49 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=17500 mean=-123.8±15.8 success=100% t=64s
+Episode 500/500 | Avg Reward: -128.98 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=18000 mean=-123.8±15.8 success=100% t=65s
+Episode 500/500 | Avg Reward: -133.69 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=18500 mean=-130.7±15.8 success=100% t=67s
+Episode 500/500 | Avg Reward: -160.31 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=19000 mean=-167.6±21.2 success=94% t=69s
+Episode 500/500 | Avg Reward: -152.59 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=19500 mean=-123.4±15.3 success=100% t=70s
+Episode 500/500 | Avg Reward: -130.21 | Epsilon: 0.0100 | States visited: 297
+[eval] ep=20000 mean=-121.3±12.6 success=100% t=72s
+Saved Q-Learning agent to saves/qlearning_best.pkl
+Saved Q-Learning agent to saves/qlearning_final.pkl
+BEST -121.32

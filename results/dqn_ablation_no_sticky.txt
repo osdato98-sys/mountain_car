@@ -1,0 +1,5 @@
+Episode 250/1000 | Avg Reward: -200.00 | Epsilon: 0.2856 | Buffer: 50000
+Episode 500/1000 | Avg Reward: -200.00 | Epsilon: 0.0816 | Buffer: 100000
+Episode 750/1000 | Avg Reward: -200.00 | Epsilon: 0.0233 | Buffer: 100000
+Episode 1000/1000 | Avg Reward: -200.00 | Epsilon: 0.0100 | Buffer: 100000
+episodios con recompensa > -200: 0 de 1000
