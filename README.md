@@ -1,3 +1,5 @@
+# Mastria en Inteligencia Artificial
+## Integrantes: Alvaro Jimenez, Claudia Soto, Juan Tovar, Oscar Mantilla, Padro Martinez, Oscar Torres
 # MountainCar-v0: Q-Learning tabular vs. Deep Q-Network
 
 Actividad de Aprendizaje por Refuerzo. Se implementan **desde cero** (sin Stable-Baselines) dos agentes sobre
@@ -41,7 +43,16 @@ Evaluación greedy (sin exploración) sobre **100 episodios con semillas distint
 Logs completos: `results/qlearning_log.txt`, `results/dqn_log.txt`; historiales en `results/*_history.json`.
 Los mejores modelos están en `saves/qlearning_best.pkl` y `saves/dqn_best.pt`.
 
-## Esquemas del proceso de entrenamiento (dibujos propios)
+### Simulación de los mejores modelos
+
+Ambos agentes parten del mismo estado inicial (semilla 5000).
+
+| Q-Learning tabular | DQN |
+|:---:|:---:|
+| ![Q-Learning](docs/esquemas/sim_qlearning.gif) | ![DQN](docs/esquemas/sim_dqn.gif) |
+
+
+## Esquemas del proceso de entrenamiento
 
 ![Esquema Q-Learning](docs/esquemas/esquema_qlearning.jpg)
 ![Esquema DQN](docs/esquemas/esquema_dqn.jpg)
