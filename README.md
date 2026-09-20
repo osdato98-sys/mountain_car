@@ -1,5 +1,5 @@
 # Simulación y aprendizaje por refuerzo - Mastria en Inteligencia Artificial
-### Integrantes: Alvaro Jimenez, Claudia Soto, Juan Tovar, Oscar Mantilla, Padro Martinez, Oscar Torres
+### Integrantes: Alvaro Jimenez, Claudia Soto, Juan Tovar, Oscar Mantilla, Pedro Martinez, Oscar Torres
 ## MountainCar-v0: Q-Learning tabular vs. Deep Q-Network
 
 Actividad de Aprendizaje por Refuerzo. Se implementan **desde cero** (sin Stable-Baselines) dos agentes sobre
