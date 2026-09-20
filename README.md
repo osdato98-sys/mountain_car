@@ -1,4 +1,5 @@
 # Simulación y aprendizaje por refuerzo - Mastria en Inteligencia Artificial
+### Grupo 5
 ### Integrantes: Alvaro Jimenez, Claudia Soto, Juan Tovar, Oscar Mantilla, Pedro Martinez, Oscar Torres
 ## MountainCar-v0: Q-Learning tabular vs. Deep Q-Network
 
